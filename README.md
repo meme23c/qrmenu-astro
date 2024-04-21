@@ -1,4 +1,4 @@
-# blackgyalbites
+# qrmenu
 
 ## Template for No-touch Menus and Host Static Pages Built with Any Framework on GitHub Pages
 
@@ -15,7 +15,7 @@ See more example frameworks hosted on GitHub Pages:
 - [Next.js and Tailwind CSS](https://github.com/blackgirlbytes/blackgyalbites-nextjs)
 - [Astro](https://github.com/blackgirlbytes/blackgyalbites-astro)
 
-Link to live site: https://blackgirlbytes.github.io/blackgyalbites-astro/
+Link to live site: https://epaepacluj.github.io/qrmenu-astro/
 
 ### Design and Development
 All designs and elements are open source, available for free for anyone to use.
@@ -32,5 +32,4 @@ Menu Design Template: [Canva](https://www.canva.com/design/DAFGhaCejFw/zy2w9ZjXJ
 
 Download Assets & Design Elements: [Google Drive](https://drive.google.com/drive/u/0/folders/12vHecd82FiiphDGSpwRA8cndsdzDy5QG)
 
-![blackgirlbytes logo](https://user-images.githubusercontent.com/22990146/182384548-5af4d85e-3439-449a-bac4-6b213eb6b18c.png)
 
