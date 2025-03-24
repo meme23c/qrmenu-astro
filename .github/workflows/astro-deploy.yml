@@ -18,7 +18,7 @@
         runs-on: ubuntu-latest
         steps:
         - name: Check out your repository using git
-          uses: actions/checkout@v2
+          uses: actions/checkout@v4.2.2
 
         - name: Use Node.js 16
           uses: actions/setup-node@v2
@@ -35,9 +35,10 @@
           run: npm run build --if-present
 
         - name: Upload artifact
-          uses: actions/upload-pages-artifact@v1
+          uses: actions/upload-pages-artifact@v3.0.1
           with:
             path: ./dist
+            retention-days: 7
 
       deploy:
         environment:
